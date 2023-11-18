@@ -1,6 +1,3 @@
-example to make merge conflit
-
-
 ## Sales Insights Data Analysis Project
 ## Instructions to setup mysql on your local computer
 
