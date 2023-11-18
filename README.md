@@ -1,7 +1,4 @@
 ## Sales Insights Data Analysis Project
-123
-asd
-sathwika hjhdjbkjhbdsahbhghb
 ## Instructions to setup mysql on your local computer
 
 1. Follow step in this video to install mysql on your local computer
